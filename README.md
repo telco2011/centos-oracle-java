@@ -14,4 +14,3 @@ This Dockerfile creates a CentOS image with Oracle java installed inside.
 
 ##VERSIONS
 * empty(latest): latest centos with latest java version 
-* 7jre6u45: centos 7 with java 6u45
