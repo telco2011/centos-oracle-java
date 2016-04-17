@@ -12,5 +12,5 @@ This Dockerfile creates a CentOS image with Oracle java installed inside.
 `docker run --name centos-bash -i -t telco2011/centos-oracle-java:[VERSION] /bin/bash`
 
 
-##VERSIONS
-* empty(latest): latest centos with latest java version 
+## VERSIONS
+* empty(latest): latest centos with latest java version
